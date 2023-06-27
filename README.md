@@ -13,6 +13,7 @@
 # Contato:
 <a href ='https://www.linkedin.com/in/ayrton-porto-31ba99159/'>![image](https://user-images.githubusercontent.com/76439349/127049372-1affd31e-9f4c-48cb-90ac-279901cd8aa4.png)<a/>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AyrtonRSPorto&theme=graywhite)
 
 
 
