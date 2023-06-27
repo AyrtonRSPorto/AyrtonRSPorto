@@ -9,6 +9,7 @@
 ![image](https://user-images.githubusercontent.com/76439349/127048328-b0aa226b-40d7-42d8-836f-8efdfbade797.png)
 ![image](https://user-images.githubusercontent.com/76439349/127048580-d27d8c99-4781-4bbb-ac70-905c7cc242c9.png)
 ![image](https://user-images.githubusercontent.com/76439349/127048414-d2c31c78-2fd4-48e1-98c9-bd6a0074b394.png)
+![image](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 # Contato:
 <a href ='https://www.linkedin.com/in/ayrton-porto-31ba99159/'>![image](https://user-images.githubusercontent.com/76439349/127049372-1affd31e-9f4c-48cb-90ac-279901cd8aa4.png)<a/>
